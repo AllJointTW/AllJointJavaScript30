@@ -1,2 +1,2 @@
-# AllJointJavascript30
-The practice of Javascript 30.
+# AllJoint JavaScript30
+The practice of (JavaScript30)[https://javascript30.com].
