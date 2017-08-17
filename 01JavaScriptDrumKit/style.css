@@ -10,7 +10,6 @@ body, html {
 }
 
 .keys {
-  border: 2px solid;
   display: flex;
   flex: 1;
   min-height: 100vh;
