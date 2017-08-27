@@ -10,3 +10,4 @@ The practice of [JavaScript30](https://javascript30.com).
 6. [Type Ahead](https://alljointtw.github.io/AllJointJavaScript30/06TypeAhead/06TypeAhead.html)
 7. [Array Cardio Day 2](https://alljointtw.github.io/AllJointJavaScript30/07ArrayCardioDay2/07ArrayCardioDay2.html)
 8. [Fun With HTML5 Canvas](https://alljointtw.github.io/AllJointJavaScript30/08FunWithHTML5Canvas/08FunWithHTML5Canvas.html)
+9. [Dev Tools Domination](https://alljointtw.github.io/AllJointJavaScript30/09DevToolsDomination/09DevToolsDomination.html)
