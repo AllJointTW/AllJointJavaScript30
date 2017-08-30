@@ -12,3 +12,4 @@ The practice of [JavaScript30](https://javascript30.com).
 8. [Fun With HTML5 Canvas](https://alljointtw.github.io/AllJointJavaScript30/08FunWithHTML5Canvas/08FunWithHTML5Canvas.html)
 9. [Dev Tools Domination](https://alljointtw.github.io/AllJointJavaScript30/09DevToolsDomination/09DevToolsDomination.html)
 10. [Hold Shift To CheckMultiple Checkboxes](https://alljointtw.github.io/AllJointJavaScript30/10HoldShiftToCheckMultipleCheckboxes/10HoldShiftToCheckMultipleCheckboxes.html)
+11. [Custom Video Player](https://alljointtw.github.io/AllJointJavaScript30/11CustomVideoPlayer/11CustomVideoPlayer.html)
