@@ -11,15 +11,10 @@
   let queue = []
   const secret = 'tomishandsome'
 
-  document.addEventListener('keyup', (event) => {
+  window.addEventListener('keyup', (event) => {
     queue.push(event.key)
-    if (queue.length > secret.length) {
-      queue.shift()
-    }
-    if (queue.join('') === secret) {
-      cornify_add()
-    }
-    console.log(queue)
+    if (queue.length > secret.length) queue.shift()
+    if (queue.join('') === secret) cornify_add()
   })
 </script>
 </body>
