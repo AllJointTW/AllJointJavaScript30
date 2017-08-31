@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Detection</title>
+    <h1>Secret Key: 'tomishandsome'</h1>
+  <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+<script>
+  let queue = []
+  const secret = 'tomishandsome'
+
+  document.addEventListener('keyup', (event) => {
+    queue.push(event.key)
+    if (queue.length > secret.length) {
+      queue.shift()
+    }
+    if (queue.join('') === secret) {
+      cornify_add()
+    }
+    console.log(queue)
+  })
+</script>
+</body>
+</html>
