@@ -25,3 +25,4 @@ The practice of [JavaScript30](https://javascript30.com).
 21. [Geolocation](https://alljointtw.github.io/AllJointJavaScript30/21Geolocation/21Geolocation.html)
 22. [Follow Along Link Highlighter](https://alljointtw.github.io/AllJointJavaScript30/22FollowAlongLinkHighlighter/22FollowAlongLinkHighlighter.html)
 23. [Speech Synthesis](https://alljointtw.github.io/AllJointJavaScript30/23SpeechSynthesis/23SpeechSynthesis.html)
+24. [Sticky Nav](https://alljointtw.github.io/AllJointJavaScript30/24StickyNav/24StickyNav.html)
