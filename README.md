@@ -29,3 +29,4 @@ The practice of [JavaScript30](https://javascript30.com).
 25. [Event Capture Propagation Bubbling And Once](https://alljointtw.github.io/AllJointJavaScript30/25EventCapturePropagationBubblingAndOnce/25EventCapturePropagationBubblingAndOnce.html)
 26. 
 27. [Click And Drag](https://alljointtw.github.io/AllJointJavaScript30/27ClickAndDrag/27ClickAndDrag.html)
+28. [Video Speed Controller](https://alljointtw.github.io/AllJointJavaScript30/28VideoSpeedController/28VideoSpeedController.html)
