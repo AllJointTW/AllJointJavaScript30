@@ -31,3 +31,4 @@ The practice of [JavaScript30](https://javascript30.com).
 27. [Click And Drag](https://alljointtw.github.io/AllJointJavaScript30/27ClickAndDrag/27ClickAndDrag.html)
 28. [Video Speed Controller](https://alljointtw.github.io/AllJointJavaScript30/28VideoSpeedController/28VideoSpeedController.html)
 29. [Countdown Timer](https://alljointtw.github.io/AllJointJavaScript30/29CountdownTimer/29CountdownTimer.html)
+30. [Whack A Mole](https://alljointtw.github.io/AllJointJavaScript30/30WhackAMole/30WhackAMole.html)
